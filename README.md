@@ -1,6 +1,6 @@
 # SmorgasBoard
 
-This app was built in 18 hours, it was a practice client project built do out clients specifications. 
+This app was built in 18 hours, it was a practice client project built do our clients specifications. 
 
 *A heapin' helpin of board gamin' goodness!*
 
